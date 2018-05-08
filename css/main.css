@@ -51,6 +51,11 @@ body {
     height: 400px;
 }
 
+#storyboard object {
+    width: 100vw;
+    height: 400px;
+}
+
 
 
 /* Navigation */
