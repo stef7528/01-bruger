@@ -36,27 +36,30 @@ body {
 
 
 #posters object {
-    width: 100vw;
+    width: 90vw;
     height: 400px;
 }
 
 
 #posters1 object {
-    width: 100vw;
+    width: 90vw;
     height: 400px;
 }
 
 #posters3 object {
-    width: 100vw;
+    width: 90vw;
     height: 400px;
 }
 
 #storyboard object {
-    width: 100vw;
+    width: 90vw;
     height: 400px;
 }
 
-
+#canvas object {
+    width: 90vw;
+    height: 500px;
+}
 
 /* Navigation */
 
