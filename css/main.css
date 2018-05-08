@@ -35,6 +35,23 @@ body {
 }
 
 
+#posters object {
+    width: 100vw;
+    height: 400px;
+}
+
+
+#posters1 object {
+    width: 100vw;
+    height: 400px;
+}
+
+#posters3 object {
+    width: 100vw;
+    height: 400px;
+}
+
+
 
 /* Navigation */
 
