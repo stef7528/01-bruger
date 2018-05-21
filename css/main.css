@@ -72,6 +72,11 @@ body {
     height: 500px;
 }
 
+#persona object {
+    width: 90vw;
+    height: 500px;
+}
+
 /* Navigation */
 
 nav ul {
